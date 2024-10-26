@@ -1,7 +1,7 @@
 # Algorithmic Trading Website Documentation
 
 ## Website Location
-This is a local website implementation. To deploy it, the HTML files would need to be hosted on a web server and a proper domain name would need to be assigned.
+[Website](https://nhaniph.github.io/hw3-data-viz/)
 
 ## Styling & Customizations Description
 
